@@ -22,6 +22,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/watch">Watch</RouterLink>
         <RouterLink to="/lifecycle-hooks">Lifecycle Hooks</RouterLink>
         <RouterLink to="/directives">Diretivas</RouterLink>
+        <RouterLink to="/composables">Composables</RouterLink>
       </nav>
     </div>
   </header>

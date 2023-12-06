@@ -48,6 +48,11 @@ const router = createRouter({
       name: 'directives',
       component: () => import('../views/CustomDirective.vue'),
     },
+    {
+      path: '/composables',
+      name: 'composables',
+      component: () => import('../views/Composables.vue'),
+    },
   ],
 })
 
