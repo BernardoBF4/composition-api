@@ -2,7 +2,7 @@
 
 <template>
   <div class="about">
-    <h1>Hoje a gente vai ver sobre isso:</h1>
+    <h1>Esse projeto traz exemplos sobre o que está abaixo, com Vue 3 e Composition API.</h1>
     <br />
     <ul>
       <li>Refs</li>
@@ -12,6 +12,8 @@
       <li>Computed</li>
       <li>Watch</li>
       <li>Lifecycle Hooks</li>
+      <li>Diretivas</li>
+      <li>Composables</li>
     </ul>
   </div>
 </template>
