@@ -10,6 +10,9 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="greetings">
         <h1 class="green">Bem-vindo à Composition API</h1>
         <h3>Bora entender como brincar com essa nova forma de escrever componentes.</h3>
+        <a href="https://github.com/BernardoBF4/composition-api" rel="noreferrer" target="_blank">
+          Aqui está o repositório.
+        </a>
       </div>
 
       <nav>
